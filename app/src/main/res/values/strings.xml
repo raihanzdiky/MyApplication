@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="major_list">
+        <item>Industrial Engineering</item>
+        <item>Informatics Engineering</item>
+        <item>Digital Business</item>
+        <item>Retail Management</item>
+        <item>Visual Communication Design</item>
+    </string-array>
+</resources>
