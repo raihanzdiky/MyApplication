@@ -13,7 +13,7 @@
         android:text="Belajar Android Studio"
         android:textSize="26sp"
         android:textStyle="bold"
-        android:textColor="@color/black"
+          android:textColor="@color/black"
         android:layout_marginBottom="40dp"/>
 
     <com.google.android.material.textfield.TextInputLayout
