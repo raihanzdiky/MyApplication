@@ -86,4 +86,8 @@ This application is a **Complete Registration Form** that includes:
 
 ---
 
-## 📂 Project Structure
+## 📂 Video Penjelasan Kode & Tampilan
+
+Gdrive :
+https://drive.google.com/file/d/1fsoUWT7aBNmhn4kZHV2aQSWDv1iqqgMN/view?usp=drive_link
+
